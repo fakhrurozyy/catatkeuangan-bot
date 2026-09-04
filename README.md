@@ -13,8 +13,7 @@ Telegram bot for tracking personal finances.
 * View transaction history
 
 
-[Use the bot on Telegram]
-([https://t.me/USERNAME_BOT_BARU](https://t.me/catatkeuangan_fakhru_bot))
+[Use the bot on Telegram](https://t.me/catatkeuangan_fakhru_bot))
 
 ## Tech Stack
 
